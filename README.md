@@ -19,7 +19,7 @@ Projeto Criando um Podcast com IAs Generativas - Bootcamp CAIXA - IA Generativa 
 
 - [PODCAST](https://github.com/SMGC-GIT/Projeto_DIO_Criando_um_Podcast/blob/main/PODCAST_REFLEX%C3%95ES_DA_ALMA_editado.MP3)
 
-## **OBS.:** Caso não consiga abrir o link, note que o tamanho excede e uma versão será baixada. Clicar no canto superior direito para ouvir o áudio.
+**OBS.:** Caso não consiga abrir o link, note que o tamanho excede. Será direcionado para uma página, então clique em VIEW ROW e uma versão será baixada. Clicar no canto superior direito para ouvir o áudio.
 
 **Luzes da Alma** é um podcast de espiritualidade dedicado à paz, ao autoconhecimento e à reflexão. Inspirado na obra **"A Gênese"** de Allan Kardec, este projeto visa trazer conteúdo que ilumina mentes e corações por meio de uma abordagem suave e inspiradora.
 
