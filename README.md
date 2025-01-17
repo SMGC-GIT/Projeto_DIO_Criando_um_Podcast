@@ -2,8 +2,20 @@
 Projeto Criando um Podcast com IAs Generativas - Bootcamp CAIXA - IA Generativa com Microsoft Copilot
 # Luzes da Alma
 
+<p align="center">
+<img 
+    src="https://github.com/SMGC-GIT/Projeto_DIO_Criando_um_Podcast/blob/main/Imagem_da_Capa.jpg"
+    width="300"
+/>
+</p>
 
-https://github.com/SMGC-GIT/Projeto_DIO_Criando_um_Podcast/blob/main/Imagem_da_Capa.jpg?raw=true
+<p align="center">
+<img 
+    src="https://github.com/SMGC-GIT/Projeto_DIO_Criando_um_Podcast/blob/main/Imagem_da_Capa.jpg"
+    width="300"
+/>
+</p>
+
 
 **Luzes da Alma** é um podcast de espiritualidade dedicado à paz, ao autoconhecimento e à reflexão. Inspirado na obra **"A Gênese"** de Allan Kardec, este projeto visa trazer conteúdo que ilumina mentes e corações por meio de uma abordagem suave e inspiradora.
 
