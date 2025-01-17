@@ -93,4 +93,4 @@ Luzes-da-Alma/
 
 Para dúvidas ou sugestões, entre em contato:
 - **E-mail:** (sguimaraes1004@gmail.com)
-- **Redes Sociais:** (https://linkedin.com/in/silvia-maria-guimar%C3%A3es-cost-3a01b423b)
+- **Redes Sociais:** (https://www.linkedin.com/in/silvia-maria-guimar%C3%A3es-costa-3a01b423b)
