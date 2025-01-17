@@ -11,10 +11,13 @@ Projeto Criando um Podcast com IAs Generativas - Bootcamp CAIXA - IA Generativa 
 
 <p align="center">
 <img 
-    src="https://github.com/SMGC-GIT/Projeto_DIO_Criando_um_Podcast/blob/main/Imagem_da_Capa.jpg"
+    src="https://github.com/SMGC-GIT/Projeto_DIO_Criando_um_Podcast/blob/main/PODCAST_REFLEX%C3%95ES_DA_ALMA_editado.MP3"
     width="300"
 />
 </p>
+
+
+- [PODCAST](https://github.com/SMGC-GIT/Projeto_DIO_Criando_um_Podcast/blob/main/PODCAST_REFLEX%C3%95ES_DA_ALMA_editado.MP3) 
 
 
 **Luzes da Alma** é um podcast de espiritualidade dedicado à paz, ao autoconhecimento e à reflexão. Inspirado na obra **"A Gênese"** de Allan Kardec, este projeto visa trazer conteúdo que ilumina mentes e corações por meio de uma abordagem suave e inspiradora.
@@ -81,7 +84,7 @@ Se você se interessa por espiritualidade e deseja contribuir com este projeto, 
 Luzes-da-Alma/
 ├── scripts/          # Roteiros dos episódios e PROMPTS
 ├── audio/            # Arquivos de áudio editados e original
-├── assets/           # Trilhas sonoras e efeitos sonoros
+├── Imagem/           # Arquivos de Imagem
 ├── README.md         # Documentação do projeto
 ```
 
